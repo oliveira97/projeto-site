@@ -4,12 +4,12 @@
 }
 
 bory {
-   background-color: violet;
+   background-color: rgb(238, 230, 238);
 
 }
 
 main{
-    background-color: white;
+    background-color: rgb(220, 154, 223);
     width: 500px;
     margin: auto;
     padding: 10px;
