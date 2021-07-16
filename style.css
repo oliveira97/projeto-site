@@ -11,12 +11,12 @@ body {
 }
 
 article {
-    color: rgb(154, 178, 189);
+    color: rgb(159, 181, 192);
 
 }
 
 main {
-    background-color: azure;
+    background-color: rgb(231, 243, 243);
     width: 500px;
     margin: auto;
     padding: 10px;
