@@ -6,7 +6,12 @@
 }
 
 body {
-    background-color: rgb(35, 233, 233)
+    background-color: rgb(141, 233, 35)
+
+}
+
+article {
+    color: aqua;
 
 }
 
