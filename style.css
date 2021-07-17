@@ -6,8 +6,12 @@
 }
 
 body {
-    background-color: rgb(63, 158, 221)
+    background-color: rgb(75, 161, 219)
 
+}
+
+article {
+    color: bisque;
 }
 
 main {
