@@ -5,6 +5,10 @@
 
 }
 
+header {
+    color: blueviolet;
+}
+
 body {
     background-color: blueviolet;
 
@@ -15,7 +19,7 @@ article {
 }
 
 main {
-    background-color: rgb(211, 208, 206);
+    background-color: whitesmoke;
     width: 600px;
     margin: auto;
     padding: 10px;
