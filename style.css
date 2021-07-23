@@ -6,8 +6,12 @@
 }
 
 body {
-    background-color: rgb(70, 212, 51);
+    background-color: blueviolet;
 
+}
+
+article {
+    color: blueviolet;    
 }
 
 main {
