@@ -22,11 +22,11 @@ body {
 }
 
 article {
-    color: yellow;    
+    color: rgb(21, 72, 182);
 }
 
 main {
-    background-color: whitesmoke;
+    background-color: yellow;
     width: 600px;
     margin: auto;
     padding: 10px;
