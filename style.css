@@ -17,7 +17,7 @@ h2 {
 }
 
 body {
-    background-color: rgb(7, 197, 23);
+    background-color: rgb(1, 128, 11);
 
 }
 
@@ -26,7 +26,7 @@ article {
 }
 
 main {
-    background-color: yellow;
+    background-color: rgb(231, 231, 26);
     width: 600px;
     margin: auto;
     padding: 10px;
