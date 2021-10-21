@@ -30,6 +30,6 @@ main {
     width: 600px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px black;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.356);
     border-radius: 10px;
 }
