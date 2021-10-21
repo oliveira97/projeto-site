@@ -23,6 +23,7 @@ body {
 
 article {
     color: rgb(60, 102, 192);
+    border-radius: 10px;
 }
 
 main {
