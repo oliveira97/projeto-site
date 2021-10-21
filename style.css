@@ -23,7 +23,6 @@ body {
 
 article {
     color: rgb(60, 102, 192);
-    border-radius: 10px;
 }
 
 main {
@@ -32,4 +31,5 @@ main {
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
+    border-radius: 10px;
 }
