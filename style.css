@@ -6,7 +6,7 @@
 }
 
 h1 {
-    color: rgb(60, 102, 192);
+    color: #0068B5;
     text-align: center;
     font-size: 20px;
 }
@@ -17,12 +17,12 @@ h2 {
 }
 
 body {
-    background-color: rgb(60, 102, 192);
+    background-color: #0068B5;
 
 }
 
 article {
-    color: rgb(60, 102, 192);
+    color: #0068B5;
 }
 
 main {
